@@ -106,8 +106,6 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m
 #EXTINF:-1 ,CCTV-9 纪录
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226923/index.m3u8
 #EXTINF:-1 ,CCTV-10 科教
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226241/index.m3u8
-#EXTINF:-1 ,CCTV-10 科教
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226464/1.m3u8
 #EXTINF:-1 ,CCTV-10 科教
 http://39.134.24.24/PLTV/88888888/224/3221225823/index.m3u8
@@ -133,8 +131,6 @@ http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212308
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
 #EXTINF:-1 ,CCTV-13 新闻
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
-#EXTINF:-1 ,CCTV-14 少儿
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 #EXTINF:-1 ,CCTV-14 少儿
 http://117.148.187.43/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230701/01.m3u8?fmt=ts2hls
 #EXTINF:-1 ,CCTV-14 少儿
@@ -162,11 +158,13 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 ,CCTV-17 农业农村
 http://39.134.24.24/PLTV/88888888/224/3221225859/index.m3u8
 #EXTINF:-1 ,东南卫视
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226244/index.m3u8
-#EXTINF:-1 ,东南卫视
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8
 #EXTINF:-1 ,东南卫视
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226406/1.m3u8
+#EXTINF:-1 ,东南卫视
+http://111.12.102.68:6610/PLTV/77777777/224/3221225696/index.m3u8?
+#EXTINF:-1 ,东南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 ,东方卫视
 http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226236/index.m3u8
 #EXTINF:-1 ,东方卫视
@@ -188,8 +186,6 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227040/index.m
 #EXTINF:-1 ,东方卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8
 #EXTINF:-1 ,北京卫视
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226234/index.m3u8
-#EXTINF:-1 ,北京卫视
 http://117.148.187.67/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/01.m3u8?fmt=ts2hls
 #EXTINF:-1 ,北京卫视
 http://117.148.187.45/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230704/01.m3u8?fmt=ts2hls
@@ -206,13 +202,15 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225937/index.m
 #EXTINF:-1 ,北京卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225826/index.m3u8
 #EXTINF:-1 ,天津卫视
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226254/index.m3u8
-#EXTINF:-1 ,天津卫视
 http://117.148.187.93/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228818/index.m3u8
 #EXTINF:-1 ,天津卫视
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226502/1.m3u8
 #EXTINF:-1 ,天津卫视
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226246/1.m3u8
+#EXTINF:-1 ,天津卫视
+http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 ,天津卫视
+http://112.17.40.140/PLTV/88888888/224/3221226412/index.m3u8
 #EXTINF:-1 ,安徽卫视
 http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226240/index.m3u8
 #EXTINF:-1 ,安徽卫视
@@ -228,11 +226,7 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225945/index.m
 #EXTINF:-1 ,安徽卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225844/index.m3u8
 #EXTINF:-1 ,四川卫视
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226252/index.m3u8
-#EXTINF:-1 ,四川卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226253/index.m3u8
 #EXTINF:-1 ,山东卫视
 http://117.148.187.43/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230652/01.m3u8?fmt=ts2hls
 #EXTINF:-1 ,山东卫视
@@ -248,8 +242,6 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226992/index.m
 #EXTINF:-1 ,山东卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225843/index.m3u8
 #EXTINF:-1 ,广东卫视
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226237/index.m3u8
-#EXTINF:-1 ,广东卫视
 http://117.148.187.40/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230661/01.m3u8?fmt=ts2hls
 #EXTINF:-1 ,广东卫视
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226508/1.m3u8
@@ -259,8 +251,6 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226238/1.m3u8
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226895/index.m3u8
 #EXTINF:-1 ,广东卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225942/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226238/index.m3u8
 #EXTINF:-1 ,江苏卫视
 http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230698/01.m3u8?fmt=ts2hls
 #EXTINF:-1 ,江苏卫视
@@ -283,8 +273,6 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226243/1.m3u8
 http://117.148.187.57/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230667/01.m3u8?fmt=ts2hls
 #EXTINF:-1 ,江西卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227022/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226247/index.m3u8
 #EXTINF:-1 ,河北卫视
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/1.m3u8
 #EXTINF:-1 ,河北卫视
@@ -310,11 +298,11 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225825/index.m
 #EXTINF:-1 ,浙江卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225934/index.m3u8
 #EXTINF:-1 ,海南卫视
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226246/index.m3u8
-#EXTINF:-1 ,海南卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227000/index.m3u8
-#EXTINF:-1 ,海峡卫视
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226977/index.m3u8
+#EXTINF:-1 ,海南卫视
+http://39.134.39.37/PLTV/88888888/224/3221226301/index.m3u8
+#EXTINF:-1 ,海南卫视
+http://39.134.39.39/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 ,贵州卫视
 http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226245/index.m3u8
 #EXTINF:-1 ,辽宁卫视
@@ -323,8 +311,6 @@ http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226251/i
 http://117.148.187.45/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230692/01.m3u8?fmt=ts2hls
 #EXTINF:-1 ,辽宁卫视
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226500/1.m3u8
-#EXTINF:-1 ,深圳卫视
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 #EXTINF:-1 ,深圳卫视
 http://117.148.187.45/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230676/01.m3u8?fmt=ts2hls
 #EXTINF:-1 ,深圳卫视
@@ -353,7 +339,3 @@ http://117.148.187.93/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212288
 http://39.134.24.24/PLTV/88888888/224/3221225837/index.m3u8
 #EXTINF:-1 ,湖南卫视
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8
-#EXTINF:-1 ,重庆卫视
-http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226243/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/index.m3u8
