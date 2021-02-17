@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 ,有线高清603台
+http://xiaojun.cyou/7108live/gt/603/live1.php
+#EXTINF:-1 ,翡翠台
+http://xiaojun.cyou/7108live/gt/fct/live1.m3u8
+#EXTINF:-1 ,翡翠台
+http://xiaojun.cyou/7108live/gt/fct/live2.m3u8
+#EXTINF:-1 ,翡翠台
+http://xiaojun.cyou/7108live/gt/fct/live3.php
+#EXTINF:-1 ,凤凰中文 10M720
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
+#EXTINF:-1 ,凤凰中文 10M720
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
+#EXTINF:-1 ,凤凰中文 10M720
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
+#EXTINF:-1 ,凤凰中文
+http://xiaojun.cyou/7108live/gt/fhzwt/live1.m3u8
+#EXTINF:-1 ,凤凰资讯 10M720
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 ,HBO HD
+http://xiaojun.cyou/7108live/gt/hbo/live1.m3u8
+#EXTINF:-1 ,HBO HD
+http://xiaojun.cyou/7108live/gt/hbo/live2.php
+#EXTINF:-1 ,J2
+http://xiaojun.cyou/7108live/gt/j2/live1.m3u8
+#EXTINF:-1 ,J2
+http://xiaojun.cyou/7108live/gt/j2/live2.php
+#EXTINF:-1 ,无线新闻台
+http://xiaojun.cyou/7108live/gt/wxxwt/live1.m3u8
+#EXTINF:-1 ,有线电影台
+http://xiaojun.cyou/7108live/gt/yxdyt/live1.php
+#EXTINF:-1 ,有线新闻台
+http://xiaojun.cyou/7108live/gt/yxxwt/live1.m3u8
+#EXTINF:-1 ,东森财经新闻
+http://xiaojun.cyou/7108live/tw/dscjxw/live1.php
+#EXTINF:-1 ,东森超视
+http://xiaojun.cyou/7108live/tw/dscs/live1.php
+#EXTINF:-1 ,东森新闻
+http://xiaojun.cyou/7108live/tw/dsxw/live1.php
+#EXTINF:-1 ,华视新闻资讯
+http://xiaojun.cyou/7108live/tw/hsxwzx/live1.php
+#EXTINF:-1 ,三立台湾台
+http://xiaojun.cyou/7108live/tw/sltwt/live1.php
+#EXTINF:-1 ,台视
+http://xiaojun.cyou/7108live/tw/ts/live1.php
+#EXTINF:-1 ,台视新闻
+http://xiaojun.cyou/7108live/tw/tsxw/live1.php
+#EXTINF:-1 ,tvbs新闻台
+http://xiaojun.cyou/7108live/tw/tvbsxwt/live1.php
+#EXTINF:-1 ,纬来体育
+http://xiaojun.cyou/7108live/tw/wlty/live1.php
+#EXTINF:-1 ,中视
+http://xiaojun.cyou/7108live/tw/zs/live1.php
+#EXTINF:-1 ,中天新闻
+http://xiaojun.cyou/7108live/tw/ztxw/live1.php
+#EXTINF:-1 ,仪陇影视
+http://hls.haokan.bdstatic.com/haokan/stream_bduid_2664889573_0.m3u8
+#EXTINF:-1 ,仪陇音乐
+http://hls.haokan.bdstatic.com/haokan/stream_bduid_4061511381_0.m3u8
+#EXTINF:-1 ,峨眉影视
+http://hls.haokan.bdstatic.com/haokan/stream_bduid_2181220244_0.m3u8
+#EXTINF:-1 ,TVB经典
+http://hls.haokan.bdstatic.com/haokan/stream_bduid_1831830486_0.m3u8
+#EXTINF:-1 ,====== 檬檬影音.http://hls.haokan.bdstatic.com/haokan/stream_bduid_3033829703_0.m3u8 ======
+http://0/0.m3u8
+#EXTINF:-1 ,亚旅卫视
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 ,中天新闻
+https://ws.matchupstream.tuboshu.com/live/5ab172d329172e2ebbd87a4eff1567dd.flv
+#EXTINF:-1 ,东森新闻
+https://ws.matchupstream.tuboshu.com/live/7b576cf09c63f4cefc0f232994df07e5.flv
+#EXTINF:-1 ,无线新闻台
+http://xiaojun.cyou/7108live/gt/wxxwt/live1.m3u8
