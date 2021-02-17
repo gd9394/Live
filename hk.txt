@@ -1,5 +1,8 @@
 
-有线高清603台,http://xiaojun.cyou/7108live/gt/603/live1.php
+凤凰卫视中文台,http://aliplay.17zuoye.cn/live/14cf8851e1f172ecea9f9f213b201909.m3u8
+凤凰卫视资讯台,http://aliplay.17zuoye.cn/live/322c526d474ac13e7cf560ad282417b2.m3u8
+凤凰卫视香港台,http://aliplay.17zuoye.cn/live/0f362832700eaa335dca2f18dab3943b.m3u8
+TVBJ2,http://aliplay.17zuoye.cn/live/250f50f18f9e8f0a4ee19564ed136d51.m3u8
 翡翠台,http://xiaojun.cyou/7108live/gt/fct/live1.m3u8#http://xiaojun.cyou/7108live/gt/fct/live2.m3u8#http://xiaojun.cyou/7108live/gt/fct/live3.php
 凤凰中文 10M720,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
 凤凰中文 10M720,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
