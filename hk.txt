@@ -1,7 +1,36 @@
-
-凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
-凤凰资讯,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#http://117.169.120.138:8080/live/fhzixun/.m3u8
-凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://223.82.250.72/live/fhhongkong/index.m3u8#http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-翡翠台,http://xiaojun.cyou/7108live/gt/fct/live1.m3u8#http://xiaojun.cyou/7108live/gt/fct/live2.m3u8#http://xiaojun.cyou/7108live/gt/fct/live3.php
-HBO HD,http://xiaojun.cyou/7108live/gt/hbo/live1.m3u8#http://xiaojun.cyou/7108live/gt/hbo/live2.php
-J2,http://xiaojun.cyou/7108live/gt/j2/live1.m3u8#http://xiaojun.cyou/7108live/gt/j2/live2.php
+凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/index.m3u8
+凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/index.m3u8
+凤凰中文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
+凤凰资讯,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
+凤凰资讯,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+凤凰资讯,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+凤凰资讯,http://117.169.120.138:8080/live/fhzixun/.m3u8
+凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+凤凰香港,http://223.82.250.72/live/fhhongkong/index.m3u8
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+翡翠台,http://xiaojun.cyou/7108live/gt/fct/live1.m3u8
+翡翠台,http://xiaojun.cyou/7108live/gt/fct/live2.m3u8
+翡翠台,http://xiaojun.cyou/7108live/gt/fct/live3.php
+HBO HD,http://xiaojun.cyou/7108live/gt/hbo/live1.m3u8
+HBO HD,http://xiaojun.cyou/7108live/gt/hbo/live2.php
+J2,http://xiaojun.cyou/7108live/gt/j2/live1.m3u8
+J2,http://xiaojun.cyou/7108live/gt/j2/live2.php
+无线新闻台,http://xiaojun.cyou/7108live/gt/wxxwt/live1.m3u8
+有线电影台,http://xiaojun.cyou/7108live/gt/yxdyt/live1.php
+有线新闻台,http://xiaojun.cyou/7108live/gt/yxxwt/live1.m3u8
+东森财经新闻,http://xiaojun.cyou/7108live/tw/dscjxw/live1.php
+东森超视,http://xiaojun.cyou/7108live/tw/dscs/live1.php
+华视新闻资讯,http://xiaojun.cyou/7108live/tw/hsxwzx/live1.php
+三立台湾台,http://xiaojun.cyou/7108live/tw/sltwt/live1.php
+台视,http://xiaojun.cyou/7108live/tw/ts/live1.php
+台视新闻,http://xiaojun.cyou/7108live/tw/tsxw/live1.php
+tvbs新闻台,http://xiaojun.cyou/7108live/tw/tvbsxwt/live1.php
+中视,http://xiaojun.cyou/7108live/tw/zs/live1.php
+中天新闻,http://xiaojun.cyou/7108live/tw/ztxw/live1.php
+仪陇影视,http://hls.haokan.bdstatic.com/haokan/stream_bduid_2664889573_0.m3u8
+仪陇音乐,http://hls.haokan.bdstatic.com/haokan/stream_bduid_4061511381_0.m3u8
+峨眉影视,http://hls.haokan.bdstatic.com/haokan/stream_bduid_2181220244_0.m3u8
+TVB经典,http://hls.haokan.bdstatic.com/haokan/stream_bduid_1831830486_0.m3u8
+亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+中天新闻,https://ws.matchupstream.tuboshu.com/live/5ab172d329172e2ebbd87a4eff1567dd.flv
+东森新闻,https://ws.matchupstream.tuboshu.com/live/7b576cf09c63f4cefc0f232994df07e5.flv
