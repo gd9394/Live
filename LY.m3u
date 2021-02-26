@@ -11,20 +11,12 @@ http://zb.kksyw.top/2y10567/gat/gg.php?id=6
 http://zb.kksyw.top/2y10567/gat/gg.php?id=8
 #EXTINF:-1 ,无线新闻
 http://zb.kksyw.top/2y10567/gat/gg.php?id=9
-#EXTINF:-1 ,无线新闻<备用>
-http://aliplay.17zuoye.cn/live/96ff12dec3192f7ed9d122dbed111b08.m3u8
 #EXTINF:-1 ,无线财经
 http://zb.kksyw.top/2y10567/gat/gg.php?id=10
-#EXTINF:-1 ,无线财经<备用>
-http://aliplay.17zuoye.cn/live/e94a5f5cb443e77beb522aac2c1fc5b8.m3u8
 #EXTINF:-1 ,TVB翡翠
 http://zb.kksyw.top/2y10567/gat/gg.php?id=11
-#EXTINF:-1 ,TVB翡翠<备用>
-http://aliplay.17zuoye.cn/live/6f1dfa3ed11af052fe8d457b61b6f601.m3u8
 #EXTINF:-1 ,TVB-J2
 http://zb.kksyw.top/2y10567/gat/j2wx.php?id=j2
-#EXTINF:-1 ,TVB-J2<备用>
-http://aliplay.17zuoye.cn/live/9c7389468db91aaaf5892587628617d6.m3u8
 #EXTINF:-1 ,澳门澳视
 http://61.244.22.4/ch1/ch1.live/chunklist_w616675548.m3u8
 #EXTINF:-1 ,亚旅卫视
@@ -77,12 +69,6 @@ http://9186663.mhw183.cn/yqkkopt.php?IJK=d41qr487er12311123rd&tid=live2&id=ff085
 http://ms1234.mhw183.cn/1/ukyyqk.php?id=44c15b78133b730ae30787b9774e6f94102d19c8&check=9553819KQOOO0Q00illi
 #EXTINF:-1 ,TVB明珠
 http://93kkk.mhw183.cn:9876/ub.php?id=8a2c07d07f323fd3cc56c1cf2905aa53f8134bac&check=9553819KQOOO0Q00illi
-#EXTINF:-1 ,TVB星河
-http://ms1234.mhw183.cn/1/ub2.php?id=41696eb3a2b2736df28d89a0e2eea32f0afebbb2&check=9553819KQOOO0Q00illi
-#EXTINF:-1 ,TVB经典
-http://45.8.159.158/999/ub2.php?id=d203ef9f57b2d0443378b8680ad8da446fda65e4&check=9553819KQOOO0Q00illi
-#EXTINF:-1 ,TVB Jade
-http://93kkk.mhw183.cn:9876/ub2.php?id=ebf88d318654c00aeb654076e3f9c5bba6270d4c&check=9553819KQOOO0Q00illi
 #EXTINF:-1 ,耀才财经
 http://45.8.159.158/999/ub2.php?id=5d66fd92c2f3399e48c63e8cf5ed455b9c894fe9&check=9553819KQOOO0Q00illi
 #EXTINF:-1 ,创世电视
@@ -155,12 +141,8 @@ rtmp://59.124.75.156:1935/sat/tv771
 rtmp://59.124.75.156:1935/sat/tv571
 #EXTINF:-1 ,年代新闻
 http://zb.kksyw.top/2y10567/gat/nn.php?id=7
-#EXTINF:-1 ,年代新闻<备用>
-http://ws.matchupstream.tuboshu.com/live/1964c1bd57cd3fd0621fd85cd969d23d.flv
 #EXTINF:-1 ,ELTA体育1台
 rtmp://59.124.75.156:1935/sat/tv051
-#EXTINF:-1 ,ELTA体育3台
-rtmp://59.124.75.156:1935/sat/tv041
 #EXTINF:-1 ,民视
 http://202.59.250.83/TV.php?id=26
 #EXTINF:-1 ,台视
