@@ -49,7 +49,7 @@ BBC World News,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=421
 運通財經,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=79
 歐洲新聞,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=1343
 
-香港,#genre#
+港澳,#genre#
 爆穀台,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=152
 美亞電影,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=375
 最爱电影,http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=92
